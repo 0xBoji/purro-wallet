@@ -41,6 +41,14 @@ dependencies:
   ed25519_hd_key: ^2.2.0
   bs58: ^1.0.2
 
+  # Ethereum packages
+  web3dart: ^2.7.1
+  http: ^1.1.0
+  hex: ^0.2.0
+
+  # Authentication
+  url_launcher: ^6.2.5
+
   # Storage
   flutter_secure_storage: ^9.0.0
 
